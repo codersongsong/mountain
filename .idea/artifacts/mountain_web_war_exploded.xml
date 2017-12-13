@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="mountain-web:war exploded">
+    <output-path>$PROJECT_DIR$/mountain-web/target/mountain-web</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="mountain-web" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: cn.com.gome:commons-jdbc:2.2.3" />
+          <element id="library" level="project" name="Maven: cn.com.gome:commons-log4j2:2.2.3" />
+          <element id="library" level="project" name="Maven: redis.gcache:gcache:3.0.0-RELEASE" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/mountain-web/target/mountain-web/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="mountain-web/web/Web" />
+    </root>
+  </artifact>
+</component>

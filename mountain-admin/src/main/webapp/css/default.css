@@ -1,0 +1,27 @@
+body{font-size:12px;padding:0;margin:0;background-color:#ededed}
+*{padding:0;margin:0;border:0}
+.login-Bg{background-color:#d70815;width:100%;height:50px}
+.login-Bg .logo{background-image:url(../images/division-logo.png);width:1020px;height:50px;}
+.login-Bg .user-status{height:50px;position:absolute;top:0px;right:10px;}
+.main-nav{background-color:#262626;width:100%;height:34px}
+.main-nav .main-nav-logo{background:url(../images/nav-home.png) no-repeat;width:230px;height:34px;float:left}
+.main-nav .main-nav-box{float:left;min-width:1000px;margin-left:15px;position:relative}
+.nav-box{height:34px;width:100%}
+.nav-box li{float:left;color:#fff;height:34px;line-height:34px;font-family:Microsoft Yahei;font-size:16px;list-style-type:none;text-align:center;position:static;cursor:pointer}
+.nav-box .nav-item-primary{display:block;padding:0 30px;height:34px}
+.nav-box li.cur .nav-item-primary{background-color:#fff;color:#262626;font-weight:700}
+.nav-box li.click-cur .nav-item-primary{background-color:#fff;color:#262626;font-weight:700}
+.dropbox{visibility:hidden;position:absolute;left:0;width:100%;min-height:160px;text-align:left;padding:20px 0 30px;-moz-box-shadow:0 0 15px rgba(0,0,0,.4);-webkit-box-shadow:0 0 15px rgba(0,0,0,.4);box-shadow:0 0 15px rgba(0,0,0,.4);background-color:#fff;z-index:100}
+.dropbox dl{width:126px;overflow:hidden;float:left;margin-left:40px}
+.dropbox dl dt{position:relative;font-size:14px;font-weight:700;font-size:16px;color:#d70815;margin-bottom:10px}
+.dropbox dl dt .sub-line{position:absolute;width:30px;height:2px;background:#d70815;overflow:hidden;left:0;top:36px}
+.dropbox dl dd a{display:block;float:left;margin-right:16px;position:relative;white-space:nowrap;line-height:30px;height:30px;font-size:14px;text-align:left;color:#5e5e5e;-moz-transition:all .08s ease-in-out;-o-transition:all .08s ease-in-out;-webkit-transition:all .08s ease-in-out;transition:all .08s ease-in-out;text-decoration:none;max-width:110px}
+.dropbox dl dd a:hover{color:#d70815}
+
+#norths{overflow:visible!important}
+.layout-panel-north{overflow:visible!important}
+.default_menu{clear:both;height:34px}
+.default_menu .item{background-color:#d8d8d7;color:#212833;height:34px;line-height:34px;float:left;margin-right:3px;padding:0 30px;cursor:pointer;font-family:Microsoft Yahei;font-size:16px;position:relative}
+.default_menu .cur-item{background-color:#d70815;color:#fff;height:34px;line-height:34px;float:left;margin-right:3px;padding:0 30px;cursor:pointer;font-family:Microsoft Yahei;font-size:16px;position:relative}
+.close-tab{position:absolute;z-index:100;top:0;right:0;display:block;height:20px;width:20px;line-height:18px;text-align:center;font-weight:400;font-size:14px;opacity:.8}
+.close-tab:hover{opacity:1;font-weight:700}

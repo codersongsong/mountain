@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="mountain-admin:war exploded">
+    <output-path>$PROJECT_DIR$/mountain-admin/target/mountain-admin</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="mountain-admin" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: cn.com.gome:commons-log4j2:2.2.3" />
+          <element id="archive" name="mountain-dao-0.0.1-SNAPSHOT.jar">
+            <element id="module-output" name="mountain-dao" />
+          </element>
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/mountain-admin/target/mountain-admin/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="mountain-admin/web/Web" />
+    </root>
+  </artifact>
+</component>

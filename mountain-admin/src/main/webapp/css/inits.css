@@ -1,0 +1,48 @@
+body{font-size:12px;padding:0;margin:0}
+*{padding:0;margin:0;border:0}
+.color_01_0001{background-color:#dcdcdc}
+.color_02_0001{background-color:#789}
+.color_03_0001{background-color:silver}
+.ddl_menu{height:25px;width:100%;border-bottom:1px solid silver;clear:both}
+.ddl_menu_001{background-color:#789;height:25px;line-height:25px;float:left;margin-right:3px;padding:0 10px;cursor:pointer}
+.ddl_menu_002{background-color:#789;height:22px;line-height:22px;float:left;margin-right:3px;padding:0 10px;cursor:pointer}
+.search_table{padding:0}
+.search_table td{height:28px}
+.data_options_table{width:100%;height:585px}
+.right_menu{width:120px}
+
+.search-form{background-color:#cfd1d8;margin-top:5px;width:220px;font-family:Microsoft Yahei}
+.search-form .textbox{height:25px !important;line-height:29px !important;width:190px !important;border:1px solid #afaeae;margin:6px 6px 0px 6px;padding:0 8px;}
+.search-form .textbox-text{font-family:Microsoft Yahei}
+.search-form .textbox-text:focus{color:#262626!important}
+.search-opera{height:36px;margin:10px 6px;}
+.search-opera #search_button{float:left;}
+.search-opera #search_clear_button{float:right;}
+
+.oper-item{padding-bottom:4px;font-family:Microsoft YaHei;clear:both;height:28px}
+.oper-item li{float:left;list-style-type:none;margin-right:5px;border-radius:4px;cursor:pointer;color:#212833;border:1px solid #9d9d9d;padding:4px 6px 4px 28px;height:20px;line-height:20px;vertical-align:middle;position:relative;font-size:12px}
+.oper-item li:hover{color:#d70815;border:1px solid #eb7078}
+.oper-item li.oper-btn span{font-size:14px;margin-right:4px}
+.oper-item li.oper-btn b{margin:0 4px}
+.oper-item .oper-btn i{display:block;width:20px;height:20px;position:absolute;left:4px;background:url(../images/spirits.png) no-repeat}
+.oper-btn i.oper-search-btn{background-position:-44px -22px}
+.oper-btn:hover i.oper-search-btn{background-position:-23px -22px}
+.oper-btn i.oper-add-btn{background-position:-74px 1px}
+.oper-btn:hover i.oper-add-btn{background-position:-74px -20px}
+.oper-btn i.oper-view-btn{background-position:0 0}
+.oper-btn:hover i.oper-view-btn{background-position:-19px 0}
+.oper-btn i.oper-edit-btn{background-position:-36px 1px}
+.oper-btn:hover i.oper-edit-btn{background-position:-55px 1px}
+
+.oper-item li.oper-btn-selec{color:#d70815;border:1px solid #eb7078;}
+.oper-item li.oper-btn-selec i.oper-search-btn {background-position:-23px -22px}
+.oper-item li.oper-btn-selec i.oper-add-btn{background-position:-74px -20px}
+.oper-item li.oper-btn-selec i.oper-view-btn{background-position:-19px 0}
+.oper-item li.oper-btn-selec i.oper-edit-btn{background-position:-55px 1px}
+
+.panel-title{height:32px;line-height:32px;background:#ea3d48;font-size:16px;color:#fff;padding-left:10px;font-family:Microsoft Yahei;font-weight:400}
+.panel-header{padding:0}
+.panel-body,.panel-header{border:0!important}
+.datagrid .panel-body{border:1px solid #f1f1f1!important}
+.center-con{margin:2px 0 0 2px;padding:2px 0 0 5px;background-color:#fff}
+.taskNameClass{font-size:13px;padding-bottom:5px;padding-left:8px;height:20px;cursor:pointer;}

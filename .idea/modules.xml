@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mountain.iml" filepath="$PROJECT_DIR$/mountain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mountain-admin/mountain-admin.iml" filepath="$PROJECT_DIR$/mountain-admin/mountain-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mountain-common/mountain-common.iml" filepath="$PROJECT_DIR$/mountain-common/mountain-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mountain-dao/mountain-dao.iml" filepath="$PROJECT_DIR$/mountain-dao/mountain-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mountain-dubbo/mountain-dubbo.iml" filepath="$PROJECT_DIR$/mountain-dubbo/mountain-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mountain-service/mountain-service.iml" filepath="$PROJECT_DIR$/mountain-service/mountain-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mountain-task/mountain-task.iml" filepath="$PROJECT_DIR$/mountain-task/mountain-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mountain-web/mountain-web.iml" filepath="$PROJECT_DIR$/mountain-web/mountain-web.iml" />
+    </modules>
+  </component>
+</project>

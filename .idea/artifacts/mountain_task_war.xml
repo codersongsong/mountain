@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mountain-task:war">
+    <output-path>$PROJECT_DIR$/mountain-task/target</output-path>
+    <root id="archive" name="mountain-task.war">
+      <element id="artifact" artifact-name="mountain-task:war exploded" />
+    </root>
+  </artifact>
+</component>

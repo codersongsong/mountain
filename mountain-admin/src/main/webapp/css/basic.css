@@ -1,0 +1,25 @@
+body{font-size:12px;padding:0;margin:0}
+table.hovertable{font-family:Microsoft Yahei;font-size:12px;color:#333;border-width:1px;border-color:#999;border-collapse:collapse;background-color:#FFF!important;font-size:13px}
+table.hovertable th{background-color:#c3dde0;border-width:1px;padding:4px;border-style:solid;border-color:#a9c6c9!important}
+table.hovertable td{border-width:1px;padding:4px;border-style:dotted;border-color:#ddd;padding-left:10px}
+A:link{color:#000;TEXT-DECORATION:none}
+A:visited{COLOR:#000;TEXT-DECORATION:none}
+A:hover{COLOR:#ff7f24;text-decoration:none}
+A:active{COLOR:#ff7f24;text-decoration:none}
+.code_check{display:inline-block;width:60px;padding-left:5px;padding-top:2px;height:22px;text-align:center;background:#ccc;font-size:14px;position:relative;left:5px;cursor:pointer;letter-spacing:5px}
+.div_left_N{float:left}
+.div_content_heah{height:28px;line-height:28px;background:#ea3d48;font-size:16px;color:#fff;padding-left:10px;font-family:Microsoft Yahei;font-weight:400}
+
+.four_class li{
+	float:left;
+	list-style-type:none;
+}
+.search-input{
+	width:180px;
+}
+.limit_row li{
+	display: inline-block;
+    margin-right: 15px;
+    list-style: none;
+    float:none;
+}
